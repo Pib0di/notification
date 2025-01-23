@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "440142304314",
+    "project_id": "meetup-share",
+    "storage_bucket": "meetup-share.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440142304314:android:91672727946fe951ded103",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440142304314-0ciqhav918ibucp4sao63ke2ffrm89bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATb78jehieYebE2F3R6z9aMnfRYQzc07A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440142304314-0ciqhav918ibucp4sao63ke2ffrm89bk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440142304314-2ud1oaentkfbrbskbte1f6jpndmkitse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zavodit.meetupshare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440142304314:android:da5d20dc398dcf21ded103",
+        "android_client_info": {
+          "package_name": "com.example.user_view"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440142304314-0ciqhav918ibucp4sao63ke2ffrm89bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATb78jehieYebE2F3R6z9aMnfRYQzc07A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440142304314-0ciqhav918ibucp4sao63ke2ffrm89bk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440142304314-2ud1oaentkfbrbskbte1f6jpndmkitse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zavodit.meetupshare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440142304314:android:27ce68aa5fcee369ded103",
+        "android_client_info": {
+          "package_name": "com.meetupshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440142304314-0ciqhav918ibucp4sao63ke2ffrm89bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATb78jehieYebE2F3R6z9aMnfRYQzc07A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440142304314-0ciqhav918ibucp4sao63ke2ffrm89bk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440142304314-2ud1oaentkfbrbskbte1f6jpndmkitse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zavodit.meetupshare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440142304314:android:0f5eac4314dec07aded103",
+        "android_client_info": {
+          "package_name": "com.my_enegry_stream.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440142304314-0ciqhav918ibucp4sao63ke2ffrm89bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATb78jehieYebE2F3R6z9aMnfRYQzc07A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440142304314-0ciqhav918ibucp4sao63ke2ffrm89bk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440142304314-2ud1oaentkfbrbskbte1f6jpndmkitse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zavodit.meetupshare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440142304314:android:72e899fae945dab9ded103",
+        "android_client_info": {
+          "package_name": "test.test.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440142304314-0ciqhav918ibucp4sao63ke2ffrm89bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATb78jehieYebE2F3R6z9aMnfRYQzc07A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440142304314-0ciqhav918ibucp4sao63ke2ffrm89bk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440142304314-2ud1oaentkfbrbskbte1f6jpndmkitse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zavodit.meetupshare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
